@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/jsa-react-face-recognition/static/css/main.a617e044.chunk.css",
-    "main.js": "/jsa-react-face-recognition/static/js/main.9013df95.chunk.js",
-    "main.js.map": "/jsa-react-face-recognition/static/js/main.9013df95.chunk.js.map",
+    "main.js": "/jsa-react-face-recognition/static/js/main.7199e5ff.chunk.js",
+    "main.js.map": "/jsa-react-face-recognition/static/js/main.7199e5ff.chunk.js.map",
     "runtime-main.js": "/jsa-react-face-recognition/static/js/runtime-main.5b4a444b.js",
     "runtime-main.js.map": "/jsa-react-face-recognition/static/js/runtime-main.5b4a444b.js.map",
-    "static/js/2.de7dcf0a.chunk.js": "/jsa-react-face-recognition/static/js/2.de7dcf0a.chunk.js",
-    "static/js/2.de7dcf0a.chunk.js.map": "/jsa-react-face-recognition/static/js/2.de7dcf0a.chunk.js.map",
+    "static/js/2.94376414.chunk.js": "/jsa-react-face-recognition/static/js/2.94376414.chunk.js",
+    "static/js/2.94376414.chunk.js.map": "/jsa-react-face-recognition/static/js/2.94376414.chunk.js.map",
     "static/js/3.655d5ca3.chunk.js": "/jsa-react-face-recognition/static/js/3.655d5ca3.chunk.js",
     "static/js/3.655d5ca3.chunk.js.map": "/jsa-react-face-recognition/static/js/3.655d5ca3.chunk.js.map",
     "index.html": "/jsa-react-face-recognition/index.html",
     "static/css/main.a617e044.chunk.css.map": "/jsa-react-face-recognition/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.de7dcf0a.chunk.js.LICENSE.txt": "/jsa-react-face-recognition/static/js/2.de7dcf0a.chunk.js.LICENSE.txt",
+    "static/js/2.94376414.chunk.js.LICENSE.txt": "/jsa-react-face-recognition/static/js/2.94376414.chunk.js.LICENSE.txt",
     "static/media/test_hadi.de5a4e5b.jpg": "/jsa-react-face-recognition/static/media/test_hadi.de5a4e5b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5b4a444b.js",
-    "static/js/2.de7dcf0a.chunk.js",
+    "static/js/2.94376414.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.9013df95.chunk.js"
+    "static/js/main.7199e5ff.chunk.js"
   ]
 }
